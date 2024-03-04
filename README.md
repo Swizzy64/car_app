@@ -1,10 +1,12 @@
 # car_app
 
-Engineer diploma
+Mobile application project for my Engineer diploma
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Main functionalities are to help keep track of expenses revolving around a user's car, store data and display statistics about said data.
+Planned future functionality - closest petrol station shown as a pin on map.
+
 
 A few resources to get you started if this is your first Flutter project:
 
